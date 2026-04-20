@@ -15,7 +15,6 @@
 - Visual studio Code
 - Notion
 - canva
-- 
 
 ---
 
