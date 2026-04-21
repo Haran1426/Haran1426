@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff7f00&height=200&section=header&text=Haningyu&fontSize=50)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff7f00&height=200&section=header&text=Haningyu&fontSize=50&y=30)
 ## 소통을 기반으로 더 나은 결과를 만들어내는 Unity 게임 개발자
 
 ---
@@ -30,7 +29,7 @@
 ## 📊 GitHub Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=Haran1426&show_icons=true)
 
-![streak](https://streak-stats.demolab.com?user=Haran1426)
+![streak](https://streak-stats.demolab.com?user=Haran1426&theme=dark&hide_border=true)
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haran1426)
 
