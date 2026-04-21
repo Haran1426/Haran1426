@@ -20,21 +20,13 @@
 ---
 
 ## 🎯 About Me
-- Unity 기반 게임 개발
-- 플레이 경험 중심 설계
-- 협업과 구조를 고려한 개발
-
----
-
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=Haran1426&show_icons=true)
-
-![streak](https://streak-stats.demolab.com?user=Haran1426)
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haran1426)
+- 실수를 줄이기 위해 재현과 검증 과정을 중요하게 생각합니다
+- 기능 구현보다 전체 흐름과 구조를 먼저 고려합니다
+- 협업 시 읽히는 코드와 명확한 구조를 지향합니다
 
 ---
 
 ## 📫 Contact
 - GitHub: https://github.com/Haran1426  
 - Email: haningyu08@gmail.com
+- Number: 010-7173-2605
