@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff7f00&height=200&section=header&text=Haningyu&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff7f00&height=200&section=header&text=Haningyu&fontSize=50&fontAlignY=35)
 ## 소통을 기반으로 더 나은 결과를 만들어내는 Unity 게임 개발자
 
 ---
