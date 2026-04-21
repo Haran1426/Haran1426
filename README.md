@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Haningyu&fontSize=40)
-# 👋 Haningyu
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff7f00&height=200&section=header&text=Haningyu&fontSize=50)
 
-### 소통을 기반으로 더 나은 결과를 만들어내는 Unity 게임 개발자
+## 소통을 기반으로 더 나은 결과를 만들어내는 Unity 게임 개발자
 
 ---
 
@@ -9,7 +8,14 @@
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab"/>
+  <img src="https://img.shields.io/badge/Fork-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
 </p>
 
 ---
