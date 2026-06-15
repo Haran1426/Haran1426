@@ -24,12 +24,13 @@
 - 기능 구현보다 전체 흐름과 구조를 먼저 고려합니다
 - 협업 시 읽히는 코드와 명확한 구조를 지향합니다
 - 작은 차이를 쌓아 완성도를 높이는 개발자 입니다
+- 환경에 적응하려 노력하는 개발자 입니다
 
 ---
 
 ## 📫 Contact
 - GitHub: https://github.com/Haran1426  
 - Email: haningyu08@gmail.com
-- Discord: haranharan
+- Discord: ingyu._.08
 - Number: 010-7173-2605
 
