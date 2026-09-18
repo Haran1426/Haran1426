@@ -70,16 +70,9 @@
 
 ## 📫 Contact
 
-<p>
-  <a href="https://github.com/Haran1426">
-    <img src="https://img.shields.io/badge/GitHub-Haran1426-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:haningyu08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-haningyu08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/Discord-ingyu._.08-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</p>
-
+- **GitHub:** [github.com/Haran1426](https://github.com/Haran1426)
+- **Email:** [haningyu08@gmail.com](mailto:haningyu08@gmail.com)
+- **Discord:** ingyu.\_.08
 - **Phone:** 010-7173-2605
 
 ---
